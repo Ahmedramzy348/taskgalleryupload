@@ -16,7 +16,6 @@ Clean Architecture
 [State management library if used (Provider, Bloc)]
 API Integration:
 
-The application requires integration with your backend API for file upload and retrieval. Replace placeholder logic with your API-specific calls. Update the README with details about your API (endpoints, authentication requirements).
 
 Getting Started:
 
